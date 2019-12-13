@@ -1,5 +1,4 @@
 <header>
-<img src=".\assets\images\banner1.jpeg"/>
   <h1>Référent Digital | Dylan Kadani-Bassier</h1>
   <nav id=menu>
     <ul>
