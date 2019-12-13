@@ -7,3 +7,68 @@ textarea{
   weight:10px;
   height:25px;
 }
+body {
+background-color:red;
+}
+
+form {
+  padding: 20px;
+}
+
+h1 {
+text-align:center;
+background-color:red;
+margin-top:1%;
+}
+
+ul li {
+  margin-top:1%;
+  border:2px solid white;
+  border-top-width: thin;
+  border-bottom-width: thin;
+  border-right-width:thin;
+  border-left-width:thin;
+  display: inline-block;
+  justify-content:space-around;
+  width:30%;
+  margin-left: 13%;
+  text-align:center;
+  margin-bottom:1%;
+  background-color:black;
+  height:35px;
+}
+
+footer {
+  text-align:right;
+}
+
+form div {
+  padding: 10px 0;
+}
+
+form div label {
+  float:left;
+  width:200px;
+  text-align:right;
+}
+
+form div input[type="submit"] {
+  background-color:red;
+  color:black;
+}
+
+nav ul li{
+  display: inline-block;
+  width :25%;
+  text-align: center;
+}
+nav ul li a{
+  display:block;
+  height: 40px;
+  line-height: 40px;
+}
+nav ul li a:hover{
+  background:red;
+  color:black;
+  opacity:0.5;
+}

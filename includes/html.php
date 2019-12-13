@@ -3,6 +3,7 @@
   <head>
     <link rel='stylesheet' href="./assets/css/style.css">
     <meta charset="utf-8">
-    <title>Référent Digital - Dylan Kadani Bassier</title>
+    <link rel="shortcut icon" href="./assets/images/devil1.png">
+    <title>Hell Corporation</title>
   </head>
   <body>

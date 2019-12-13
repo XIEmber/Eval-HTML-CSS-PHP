@@ -2,6 +2,6 @@
 $year = date('Y');
  ?>
 <footer>
-<p>&copy; <?= $year ?> - NFactory Corporation</p>
+<p>&copy; <?= $year ?> - Hell Corporation</p>
 </footer>
 </body>
