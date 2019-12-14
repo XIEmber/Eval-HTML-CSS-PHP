@@ -19,4 +19,3 @@
       </div>
     </ul>
     </div>
-<audio autoplay src="./assets/music/music1.mp3"/>
