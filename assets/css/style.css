@@ -25,7 +25,7 @@ nav#menu ul a {
  text-align: center;
  display:inline-block;
  padding: 15px 0 15px 0;
- border:#EA1415 2px solid;
+ border:#EA1415 5px solid;
  margin-left: 20px;
 }
 
@@ -61,6 +61,44 @@ div#TitreCV p{
   text-align: center;
   padding:1px 0 10px 0;
   font-size: 20px;
+}
+div#Lilith h1{
+  text-align: center ;
+  font-size: 40px;
+}
+div#Lilith p{
+  text-align: center;
+  font-size: 20px;
+}
+div#Succube h1{
+  text-align:center;
+  font-size: 40px;
+}
+div#Succube p{
+  text-align: center;;
+  font-size: 20px;
+}
+div#Incube h1{
+  text-align: center;
+  font-size: 40px;
+}
+div#Incube p{
+  text-align: center;
+  font-size: 20px;
+}
+div#download a{
+  background-color: black;
+  border: red 5px solid;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Impact;
+  width: 25%;
+  margin-left: 525px;
+  margin-top: 15px;
 }
 
 
