@@ -62,9 +62,13 @@ div#TitreCV p{
   padding:1px 0 10px 0;
   font-size: 20px;
 }
-div#Lilith h1{
+div#Lilith h1 {
   text-align: center ;
   font-size: 40px;
+  margin: 30px 0 10px 0;
+}
+div#Lilith a {
+color: red;
 }
 div#Lilith p{
   text-align: center;
@@ -73,14 +77,22 @@ div#Lilith p{
 div#Succube h1{
   text-align:center;
   font-size: 40px;
+  margin: 30px 0 10px 0;
+}
+div#Succube a {
+color: red;
 }
 div#Succube p{
   text-align: center;;
   font-size: 20px;
 }
-div#Incube h1{
+div#Incube h1 {
   text-align: center;
   font-size: 40px;
+  margin: 30px 0 10px 0;
+}
+div#Incube a {
+color: red;
 }
 div#Incube p{
   text-align: center;
