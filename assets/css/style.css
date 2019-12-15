@@ -6,6 +6,7 @@
 /*CSS Global -Oui j'ai laissé une image dans le dossier css parce que le chemin ne marchait pas :/ déso pas déso- */
 body {
      background-image: url(image1.jpg);
+     background-size: 100%; 
 }
 /*CSS Header.php*/
 h1#titre{
