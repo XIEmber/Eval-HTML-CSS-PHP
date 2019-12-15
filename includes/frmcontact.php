@@ -1,3 +1,4 @@
+<h1 id="TitreContact">CONTACT</h1>
 <form action="index.php?page=contact" method="post">
   <fieldset>
   <div>
@@ -13,7 +14,7 @@
     <input type="mail" name="email" id="email" />
   </div>
   <div>
-    <label for="numéro">Numéro de téléphone démoniaque:</label>
+    <label for="numéro">Numéro Démoniaque:</label>
     <input type="text" name="numéro" id="numéro" />
   </div>
   <div>
@@ -25,7 +26,7 @@
   <input type="file" id="fichier"></input>
   </div>
   <div>
-<input type="submit" value="Clique ici ou va au paradis"/>
+<input type="submit" value="Clique ici ou va au paradis" id="submit"/>
   </div>
   </fieldset>
   <input type="hidden" name="frmContact" />

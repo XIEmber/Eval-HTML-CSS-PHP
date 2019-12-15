@@ -1,4 +1,3 @@
-<h1 id="Contact">CONTACT</h1>
 <?php
 if (isset($_POST['frmContact'])) {
   $nom = checkInput($_POST['nom']);

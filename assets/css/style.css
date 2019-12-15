@@ -7,10 +7,6 @@
 body {
      background-image: url(image1.jpg);
 }
-textarea{
-  resize:none;
-  height: 35px;
-}
 /*CSS Header.php*/
 h1#titre{
   text-align: center;
@@ -50,6 +46,10 @@ div.liste h1{
 div.wrap li{
   text-align: center;
   padding-top:25px;
+}
+div.wrap li a{
+  color: red;
+  text-decoration:none;
 }
 /*CSS CV.inc.php*/
 div#TitreCV h1{
@@ -112,7 +112,30 @@ div#download a{
   margin-left: 525px;
   margin-top: 15px;
 }
-
+div#anglais a{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 640px;
+  color: red;
+}
+/*CSS frmcontact.php*/
+h1#TitreContact{
+  text-align: center;
+  margin: 20px 0 10px 0;
+  font-size: 50px;
+}
+fieldset{
+  margin: 0 auto;
+  width: 400px;
+  padding: 1em;
+ border: 5px solid red;;
+ border-radius: 2em;
+}
+textarea{
+  resize:none;
+  height: 35px;
+  vertical-align: top;
+}
 
 /*CSS Footer.php*/
 footer{
@@ -122,4 +145,14 @@ footer{
 }
 footer a{
   color: #EA1415;
+}
+/*CSS EasterEgg*/
+div#Michel{
+  text-align: center;
+}
+div#Michel h1{
+  font-size: 50px;
+}
+div#Michel p{
+  font-size: 25px;
 }
