@@ -1,4 +1,4 @@
-https://whereby.com/nfactoryschool<?php
+<?php
 $year = date('Y');
  ?>
 <footer>
