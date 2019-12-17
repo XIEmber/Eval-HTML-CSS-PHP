@@ -1,5 +1,5 @@
 <h1 id="TitreContact">CONTACT</h1>
-<form action="index.php?page=contact" method="post">
+<form name="frmContact" action="index.php?page=contact" method="post">
   <fieldset>
   <div>
     <label for="nom">Nom démoniaque:</label>
@@ -10,20 +10,20 @@
     <input type="text" name="prenom" id="prenom" />
   </div>
   <div>
-    <label for="email">E-mail démoniaque:</label>
-    <input type="mail" name="email" id="email" />
+    <label for="mail">E-mail démoniaque:</label>
+    <input type="mail" name="mail" id="mail" />
   </div>
   <div>
-    <label for="numéro">Numéro Démoniaque:</label>
-    <input type="text" name="numéro" id="numéro" />
+    <label for="phone">Numéro Démoniaque:</label>
+    <input type="text" name="phone" id="phone" />
   </div>
   <div>
     <label for="message">Message à notre seigneur: </label>
-  <textarea name="message" id="message"></textarea>
+  <textarea name="msg" id="msg"></textarea>
   </div>
   <div>
     <label for="file">Met une photo pour voir</label>
-  <input type="file" id="fichier"></input>
+  <input type="file" id="file"></input>
   </div>
   <div>
 <input type="submit" value="Clique ici ou va au paradis" id="submit"/>
