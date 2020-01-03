@@ -1,4 +1,4 @@
-<div id="TitreCV">
+<div id="TitreCodex">
 <h1>CODEX DES DÉMONS</h1>
 <p>Liste non-exhaustive de démons sympa à connaître :</p>
 </div>
@@ -25,5 +25,5 @@
 <a href="./pdf/démonologie.pdf" download>Télécharger le codex</a>
 </div>
 <div id="anglais">
-<a href="index.php?page=CV2" title="Informations on the demons">Click here if you talk english</a>
+<a href="index.php?page=codex2" title="Informations on the demons">Click here if you talk english</a>
 </div>

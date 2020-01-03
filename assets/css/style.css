@@ -53,12 +53,12 @@ div.wrap li a{
   text-decoration:none;
 }
 /*CSS CV.inc.php*/
-div#TitreCV h1{
+div#TitreCodex h1{
   text-align: center;
   padding:25px 0 25px 0;
   font-size: 50px;
 }
-div#TitreCV p{
+div#TitreCodex p{
   text-align: center;
   padding:1px 0 10px 0;
   font-size: 20px;

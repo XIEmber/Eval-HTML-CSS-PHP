@@ -15,7 +15,7 @@
         <li>Manger des gateaux (c'bon les gateaux)</li>
         <li>Taper des âmes</li>
         <li>Bla bla bla bla...</li>
-        <li>Parler avec<a href="index.php?page=EasterEgg" title="Easter"> Michel </a>(Trust me he is cool)</li>
+        <li>Parler avec<a href="index.php?page=EasterEgg" title="Easter"> Michel </a></li>
         <li>Etc...Penses à des trucs sale ok ?</li>
       </div>
     </ul>
