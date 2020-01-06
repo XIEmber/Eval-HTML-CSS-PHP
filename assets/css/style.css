@@ -144,6 +144,15 @@ textarea{
   height: 35px;
   vertical-align: top;
 }
+p#reponse{
+  text-align:center;
+  font-size: 50px;
+  margin-top: 35px;
+}
+p#answer{
+  text-align: center;
+  font-size: 35px;
+}
 
 /*CSS Footer.php*/
 footer{
@@ -163,4 +172,17 @@ div#Michel h1{
 }
 div#Michel p{
   font-size: 25px;
+}
+/*CSS Mentions.php*/
+#titre {
+  text-align: center;
+  font-size: 35px;
+}
+#mentionsglobal{
+  text-align: center;
+  font-size: 20px;
+}
+#mentionsglobal a{
+  text-decoration: none;
+  color: red;
 }

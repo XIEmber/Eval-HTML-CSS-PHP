@@ -38,7 +38,7 @@ if (isset($_POST['frmContact'])) {
     WHERE mail='" . $mail ."'";
     $nbrOccurences = $pdo->query($sqlVerif)->fetchColumn();
     if ($nbrOccurences > 0) {
-      echo "Déjà en enfer sale fou";
+      echo '<p id="reponse" class="style_css">Déjà en enfer sale fou</p>';
     }
     else {
       $sql = "INSERT INTO eval (nom, prenom, mail, phone, msg) VALUES  ('" . $nom . "', '" . $prenom . "', '" . $mail ."', '" . $phone ."', '" . $msg ."')";
@@ -50,7 +50,7 @@ if (isset($_POST['frmContact'])) {
       $query->bindValue(':message', $msg, PDO::PARAM_STR);
       // $query->bindValue('file', $file, PDO::PARAM_STR);
       $query->execute();
-      echo "On te recontacte peut-être";
+      echo '<p id="reponse" class="style_css">On te recontacte peut-être</p>';
     }
   }
 }
