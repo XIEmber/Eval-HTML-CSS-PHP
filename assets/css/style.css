@@ -8,6 +8,7 @@ body {
   background-image: url(image1.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
+  background-color:black;
 }
 /*CSS Header.php*/
 h1#titre{
