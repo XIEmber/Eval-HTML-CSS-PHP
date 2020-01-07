@@ -7,6 +7,7 @@
 body {
   background-image: url(image1.jpg);
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 /*CSS Header.php*/
 h1#titre{
