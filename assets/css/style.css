@@ -30,7 +30,7 @@ nav#menu ul a {
 nav#menu ul a:hover {
   background-color: crimson;
   color: black
-  }
+}
 /*CSS accueil.inc.php*/
 h1#accueil{
   text-align: center;
@@ -225,11 +225,11 @@ div#Michel p{
   margin-bottom: 5px;
 }
 #mazikeenbody h2{
-font-size: 40px;
-text-align: center;
-color: crimson;
-margin-top: 5px;
-margin-bottom: 5px;
+  font-size: 40px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 #mazikeenbody ul li {
   font-size: 30px;
@@ -237,7 +237,7 @@ margin-bottom: 5px;
   color: crimson;
   margin-top: 5px;
   margin-bottom: 5px;
-  }
+}
 #mazikeenpowers h1{
   font-size: 50px;
   text-align: center;
@@ -251,4 +251,4 @@ margin-bottom: 5px;
   color: crimson;
   margin-top: 5px;
   margin-bottom: 5px;
-  }
+}

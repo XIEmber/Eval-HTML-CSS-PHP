@@ -1,30 +1,30 @@
 <h1 id="titrecv">Mazikeen Smith , + de 1000 ans et plus encore</h1>
 <img id="photocv"src="./assets/images/mazikeen.png" alt="photo mazikeen"/>
 <div id="mazikeenintro">
-<h1>Son Histoire</h1>
-<p>Mazikeen, également connu sous le surnom de Maze, est un Démon qui a la forme d'une jeune femme. Elle est la meilleure amie de Lucifer et travaillait autrefois à ses côtés à la discothèque Lux de Los Angeles avant de commencer une nouvelle carrière de chasseuse de primes au Département de Police. </p>
-<h1>Histoire ancienne</h1>
-<p>Maze est un démon et existe depuis des milliers d'années. Tandis que Lucifer était le dirigeant de l'Enfer, elle le servait et torturait les âmes des Humains décédés. Lucifer l'a appelée «la plus habile des bourreaux de l'enfer» et «la plus brutale des bourreaux de l'enfer». </p>
+  <h1>Son Histoire</h1>
+  <p>Mazikeen, également connu sous le surnom de Maze, est un Démon qui a la forme d'une jeune femme. Elle est la meilleure amie de Lucifer et travaillait autrefois à ses côtés à la discothèque Lux de Los Angeles avant de commencer une nouvelle carrière de chasseuse de primes au Département de Police. </p>
+  <h1>Histoire ancienne</h1>
+  <p>Maze est un démon et existe depuis des milliers d'années. Tandis que Lucifer était le dirigeant de l'Enfer, elle le servait et torturait les âmes des Humains décédés. Lucifer l'a appelée «la plus habile des bourreaux de l'enfer» et «la plus brutale des bourreaux de l'enfer». </p>
 </div>
 <div id="mazikeenbody">
-<h1>Son Parcours Proffesionnelle</h1>
-<h2>Chasseuse de Primes - Los Angeles Police</h2>
-<ul>
-  <li>-Pourchasse des criminels</li>
-  <li>-Sait se battre</li>
-  <li>-Grogne quand il le faut</li>
-</ul>
-<h2>Barman - Los Angeles Lux</h2>
-<ul>
-  <li>-Tient bien l'alcool</li>
-  <li>-Sait se battre</li>
-</ul>
-<h2>Tortionnaire d'âmes - Enfer</h2>
-<ul>
-  <li>-Fouette , Lance des dagues</li>
-  <li>-La luxure c'est son truc</li>
-  <li>-A fouetter Michel en Enfer</li>
-</ul>
+  <h1>Son Parcours Proffesionnelle</h1>
+  <h2>Chasseuse de Primes - Los Angeles Police</h2>
+  <ul>
+    <li>-Pourchasse des criminels</li>
+    <li>-Sait se battre</li>
+    <li>-Grogne quand il le faut</li>
+  </ul>
+  <h2>Barman - Los Angeles Lux</h2>
+  <ul>
+    <li>-Tient bien l'alcool</li>
+    <li>-Sait se battre</li>
+  </ul>
+  <h2>Tortionnaire d'âmes - Enfer</h2>
+  <ul>
+    <li>-Fouette , Lance des dagues</li>
+    <li>-La luxure c'est son truc</li>
+    <li>-A fouetter Michel en Enfer</li>
+  </ul>
 </div>
 <div id="mazikeenpowers">
   <h1>Ses pouvoirs</h1>
