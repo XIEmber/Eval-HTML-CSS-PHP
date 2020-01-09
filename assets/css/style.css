@@ -18,7 +18,7 @@ h1#titre{
   margin-bottom: 20px;
 }
 nav#menu ul a {
-  width: 31%;
+  width: 21%;
   text-decoration: none;
   color: #EA1415;
   text-align: center;
@@ -27,7 +27,10 @@ nav#menu ul a {
   border:#EA1415 5px solid;
   margin-left: 20px;
 }
-
+nav#menu ul a:hover {
+  background-color: crimson;
+  color: black
+  }
 /*CSS accueil.inc.php*/
 h1#accueil{
   text-align: center;
@@ -188,3 +191,64 @@ div#Michel p{
   text-decoration: none;
   color: red;
 }
+/*CSS CV*/
+#titrecv{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
+  color: crimson;
+}
+#photocv{
+  border-radius: 2em;
+  width:200px;
+  margin-left: 650px;
+}
+#mazikeenintro h1{
+  font-size: 50px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#mazikeenintro p{
+  font-size: 35px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#mazikeenbody h1{
+  font-size: 50px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#mazikeenbody h2{
+font-size: 40px;
+text-align: center;
+color: crimson;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+#mazikeenbody ul li {
+  font-size: 30px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  }
+#mazikeenpowers h1{
+  font-size: 50px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#mazikeenpowers ul li{
+  font-size: 30px;
+  text-align: center;
+  color: crimson;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  }
