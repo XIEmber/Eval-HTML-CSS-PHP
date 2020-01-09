@@ -2,7 +2,7 @@
 @import url("font.css");
 
 
-
+/*MON SITE EST CLAIREMENT DEGUELASSE MAIS J'AI FAIS EXPRES MUAHAHAHAH - Non en vrai pendant les vacances j'ai fais que d'apprendre des animations CSS et des commandes CSS*/
 /*CSS Global -Oui j'ai laissé une image dans le dossier css parce que le chemin ne marchait pas :/ déso pas déso- */
 body {
   background-image: url(image1.jpg);
@@ -18,7 +18,7 @@ h1#titre{
   margin-bottom: 20px;
 }
 nav#menu ul a {
-  width: 21%;
+  width: 22%;
   text-decoration: none;
   color: #EA1415;
   text-align: center;

@@ -1,6 +1,5 @@
 <header>
   <h1 id=titre>Hell Corporation</h1>
-</header>
 <nav id=menu>
   <ul>
     <a href="index.php?page=accueil" title="Retour à la page d'accueil">L'Enfer</a></li>
@@ -9,3 +8,4 @@
     <a href="index.php?page=CV"title="CV de Mazikeen">CV d'une Démon</a>
   </ul>
 </nav>
+</header>
