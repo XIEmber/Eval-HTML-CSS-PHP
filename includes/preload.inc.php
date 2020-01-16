@@ -14,7 +14,7 @@
   </a>
 </div>
 <div id="kiddo">
-  <a href="https://www.gulli.fr/">Si t'as moins de 18 ans</a>
+  <a href="https://www.gulli.fr/" target="_blank">Si t'as moins de 18 ans</a>
 </div>
 <script type="text/javascript">
 document.getElementById("chose").style.display = "none";

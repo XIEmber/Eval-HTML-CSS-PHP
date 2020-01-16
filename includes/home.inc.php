@@ -30,5 +30,5 @@ $(document).ready(function() {
     })
   });
 </script>
-<button id="afficher">OH Oui clique moi sale P***</button>
+<button id="afficher">Oh oui clique moii j'adore ça</button>
 <button id="cacher">Azy oublie tout bébé</button>
