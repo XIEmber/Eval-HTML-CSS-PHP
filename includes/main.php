@@ -1,6 +1,6 @@
 <main>
   <?php
-  $page = isset ($_GET['page']) ? $_GET['page'] : 'accueil';
+  $page = isset ($_GET['page']) ? $_GET['page'] : 'preload';
   if (isset($_GET['page'])) {
     $page = $_GET['page'];
   }
@@ -13,7 +13,7 @@
     require $page;
   }
   else {
-    require "./includes/accueil.inc.php";
+    require "./includes/preload.inc.php";
   }
   ?>
 </main>

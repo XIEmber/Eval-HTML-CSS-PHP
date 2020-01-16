@@ -20,3 +20,15 @@
     </div>
   </ul>
 </div>
+<script>
+$(document).ready(function() {
+    $("#cacher").click(function() {
+      $(".wrap li").fadeOut(4000);
+    });
+    $("#afficher").click(function(){
+      $(".wrap li").fadeIn(2000);
+    })
+  });
+</script>
+<button id="afficher">OH Oui clique moi sale P***</button>
+<button id="cacher">Azy oublie tout bébé</button>
